@@ -2,7 +2,7 @@ require 'test_helper'
 
 class ProductTest < ActiveSupport::TestCase
   fixtures :products
-  puts "hhhhh"
+
 
   test "product attributes must not be empty" do
     product = Product.new
