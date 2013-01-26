@@ -43,3 +43,7 @@ group :test do
   gem 'shoulda'
 end
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+#Paginate Gem
+gem 'will_paginate', '~> 3.0'
+
